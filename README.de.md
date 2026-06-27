@@ -8,7 +8,7 @@
 
 Densory Backups archiviert Text- und Forum-Kanäle im Hintergrund: Nachrichten, Dateien, Embeds und Threads landen als durchsuchbare Snapshots in deinem Dashboard. Wenn etwas schiefgeht, startest du die Wiederherstellung per Klick — auch auf einem anderen Server, mit originalgetreuen Autorennamen.
 
-### 🛒 Im Densory-Shop erhältlich
+### 🛒 Im Densory-Shop erhaeltlich
 
 **[Densory Backups — Im Shop ansehen](https://densory.com/shop/densory-backups)**
 
@@ -40,11 +40,11 @@ Densory Backups archiviert Text- und Forum-Kanäle im Hintergrund: Nachrichten, 
 
 ## Konfiguration
 
-Die vollständige Einstellungs-Referenz findest du in [docs/configuration.md](docs/configuration.md).
+Die vollstaendige Einstellungs-Referenz findest du in [docs/configuration.md](docs/configuration.md).
 
 ## Changelog
 
-Siehe [CHANGELOG.md](CHANGELOG.md) und den GitHub-Releases-Tab für die vollständige Versions-Historie.
+Siehe [CHANGELOG.md](CHANGELOG.md) und den GitHub-Releases-Tab fuer die vollstaendige Versions-Historie.
 
 ## Support & Links
 
@@ -54,4 +54,4 @@ Siehe [CHANGELOG.md](CHANGELOG.md) und den GitHub-Releases-Tab für die vollstä
 
 ---
 
-_Verwaltet mit dem Densory Control Center: [https://densory.com/dashboard](https://densory.com/dashboard). Erhältlich unter [https://densory.com/shop/densory-backups](https://densory.com/shop/densory-backups)._
+_Verwaltet mit dem Densory Control Center: [https://densory.com/dashboard](https://densory.com/dashboard). Erhaeltlich unter [https://densory.com/shop/densory-backups](https://densory.com/shop/densory-backups)._

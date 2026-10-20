@@ -1,12 +1,12 @@
 # Densory Backups — Backup & Restore
 
-![Latest version: v1.8.2](https://img.shields.io/badge/Latest_version%3A_v1.8.2-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
+![Latest version: v1.8.3](https://img.shields.io/badge/Latest_version%3A_v1.8.3-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
 
 ![Densory Backups](docs/assets/hero-en.png)
 
 > Sleep more soundly — your most important channels are automatically backed up, including attachments and forum threads.
 
-Densory Backups archives text and forum channels in the background: messages, files, embeds, and threads end up in your dashboard as searchable snapshots. If something goes wrong, you can start the restore with a click — even on a different server, with true-to-the-original author names.
+Densory Backups archives text and forum channels in the background: messages, files, embeds, and threads end up in your dashboard as searchable snapshots. If something goes wrong, you can start the restore with a click — even on a different server, with faithful author names.
 
 ### 🛒 Get it on the Densory Shop
 
